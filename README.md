@@ -1,5 +1,3 @@
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="10" height="10" /> 
 # Olá, me chamo Leonardo ! 
 ## Seja bem-vindo ao meu perfil do GitHub 👋
 
