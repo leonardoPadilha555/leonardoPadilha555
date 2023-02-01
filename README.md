@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/leonardo-padilha-05a1ba236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div class="tenor-gif-embed" data-postid="5754572" data-share-method="host" data-aspect-ratio="0.15493" data-width="100%"><a href="https://tenor.com/view/cat-meme-funny-gif-5754572">Cat Meme GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/pt-BR/view/cat-meme-funny-gif-5754572"/>
 
 
 
