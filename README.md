@@ -15,7 +15,8 @@
 <a href="https://www.linkedin.com/in/leonardo-padilha-05a1ba236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<img src="https://imgur.com/qfyuDKD.png" /> 
+<img src="https://imgur.com/GDktSSg.png"/>
+
 
 
 
