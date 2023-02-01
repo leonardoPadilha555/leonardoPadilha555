@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/leonardo-padilha-05a1ba236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<img src="https://tenor.com/pt-BR/view/cat-meme-funny-gif-5754572"/>
+<blockquote class="imgur-embed-pub" lang="en" data-id="qfyuDKD"><a href="https://imgur.com/qfyuDKD">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 
